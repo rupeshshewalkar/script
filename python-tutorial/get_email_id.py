@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #
-# Usages: get all urls OR links associate with specific URL
+# Usages: get all email ID associate with specific URL
 
 import requests, re
 
